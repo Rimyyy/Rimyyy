@@ -25,7 +25,6 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio&logoColor=75AADB)  
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
 
-
 <br/>
 
 <a href="https://github.com/Rimyyy">
